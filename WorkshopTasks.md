@@ -20,6 +20,8 @@
   * `git remote add origin <your_repo>`
 
 3. **Make some changes** in the repository (don't commit them yet)
+I'm adding a change here!
+
 
 * For example, add a new line to the README file, or add a new text file
 * Use `git diff` (or the source controll tab) to see your changes

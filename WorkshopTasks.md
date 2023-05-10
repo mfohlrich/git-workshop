@@ -22,6 +22,7 @@
 3. **Make some changes** in the repository (don't commit them yet)
 *I'm adding a change here!
 *Some changes made on github
+*Some more changes made on github
 
 
 * For example, add a new line to the README file, or add a new text file

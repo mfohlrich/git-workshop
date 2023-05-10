@@ -23,6 +23,7 @@
 *I'm adding a change here!
 *Some changes made on github
 *Some more changes made on github
+*some changes from a new branch !! NEW
 
 
 * For example, add a new line to the README file, or add a new text file

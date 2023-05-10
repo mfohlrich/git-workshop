@@ -25,7 +25,7 @@
 *Some more changes made on github
 *some changes from a new branch !! NEW
 *change from branch simultaneous to changing main
-*new conflict
+*conflict
 * For example, add a new line to the README file, or add a new text file
 * Use `git diff` (or the source controll tab) to see your changes
 

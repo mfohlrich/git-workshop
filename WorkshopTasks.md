@@ -1,7 +1,6 @@
 # Workshop Tasks
 
 ## Pre-work
-
 * Make yourself a github user account <https://github.com>
 * Install Visual Studio Code: <https://code.visualstudio.com/>
 * (optional) If you want to use the command line, set up ssh keys: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh>
@@ -20,12 +19,7 @@
   * `git remote add origin <your_repo>`
 
 3. **Make some changes** in the repository (don't commit them yet)
-*I'm adding a change here!
-*Some changes made on github
-*Some more changes made on github
-*some changes from a new branch !! NEW
-*change from branch simultaneous to changing main
-conflict
+
 * For example, add a new line to the README file, or add a new text file
 * Use `git diff` (or the source controll tab) to see your changes
 
